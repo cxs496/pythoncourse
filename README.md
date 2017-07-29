@@ -19,7 +19,7 @@ C语言指针也是一大难点，初学者理解起来也比较费劲。这些�
 目前只翻译这门课程的课后作业，并对课后作业进行解答。日后会考虑翻译课程的教材或演示文档，
 欢迎对这个项目感兴趣的朋友一块参与进来。
 
-### 课程主页
+### 课程主页(不存在的)
 
 - 课程主页： [http://www.cse.msu.edu/~cse231/](http://www.cse.msu.edu/~cse231/)
 - 教程： [http://www.cse.msu.edu/~cse231/Labs/](http://www.cse.msu.edu/~cse231/Labs/)
